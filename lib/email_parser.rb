@@ -11,7 +11,10 @@ class EmailAddressParser
    
  end
   
-  def pase
+  def parse
+    
+    
+  end
   
   
   
