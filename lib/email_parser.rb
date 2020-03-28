@@ -5,9 +5,7 @@
 
 class EmailAddressParser
 
-  def arse ()
-  p
-  
+ def initialize ()
   
   
   
