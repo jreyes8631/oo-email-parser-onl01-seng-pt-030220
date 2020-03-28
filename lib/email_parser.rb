@@ -11,6 +11,7 @@ class EmailAddressParser
    
  end
   
+  def pase
   
   
   
