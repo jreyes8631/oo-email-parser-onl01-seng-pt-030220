@@ -4,10 +4,7 @@
 # or whitespace (' ').
 
 class EmailAddressParser
-  
-  @@all = []
-  attr_accessor
-  
+
   def parse ()
   
   
