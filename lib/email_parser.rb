@@ -12,7 +12,9 @@ class EmailAddressParser
  end
   
   def parse
-    cvs_emails.split.collect 
+    cvs_emails.split.collect do ||
+      
+    end
     
   end
   
